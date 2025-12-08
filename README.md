@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Akash  
 
-<!--
-**akash938/akash938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Developer | Flutter | Firebase | Full-Stack
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 LeetCode Stats  
+![LeetCode Stats](https://leetcode.com/u/akash938)
+
+
+## 🔥 GitHub Stats  
+![Akash's GitHub stats](https://github.com/akash938)
+
+---
+
+## 🛠️ Tech Stack  
+Flutter • Dart • Firebase • REST APIs • Java • C • C++ • JavaScript • React • Git • GitHub • Next
+
+---
+
+## 📫 Connect  
+- LinkedIn: https://www.linkedin.com/in/akashnadukkandy/ 
+- Email: akashnadukkandy918@gmail.com 
