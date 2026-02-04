@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akash  
 
-### 🚀 Software Developer | Flutter | Firebase | Full-Stack
+### 🚀 Software Developer | Flutter | Firebase | Next.js | React.js | Material UI | Tailwind CSS | GSAP | TypeScript | JavaScript | Full-Stack
 
 
 ## 🧩 LeetCode Stats  
