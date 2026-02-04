@@ -19,4 +19,5 @@ Flutter • Dart • Firebase • REST APIs • Java • C • C++ • JavaScrip
 
 ## 📫 Connect  
 - LinkedIn: https://www.linkedin.com/in/akashnadukkandy/ 
-- Email: akashnadukkandy918@gmail.com 
+- Email: akashnadukandy@gmail.com
+- Portfolio: https://akashbr17-portfolio.vercel.app/
